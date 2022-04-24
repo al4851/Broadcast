@@ -1,0 +1,16 @@
+G:\RIT\CSCI.251\Broadcast\Broadcast\bin\Debug\net5.0\Broadcast.exe
+G:\RIT\CSCI.251\Broadcast\Broadcast\bin\Debug\net5.0\Broadcast.deps.json
+G:\RIT\CSCI.251\Broadcast\Broadcast\bin\Debug\net5.0\Broadcast.runtimeconfig.json
+G:\RIT\CSCI.251\Broadcast\Broadcast\bin\Debug\net5.0\Broadcast.runtimeconfig.dev.json
+G:\RIT\CSCI.251\Broadcast\Broadcast\bin\Debug\net5.0\Broadcast.dll
+G:\RIT\CSCI.251\Broadcast\Broadcast\bin\Debug\net5.0\ref\Broadcast.dll
+G:\RIT\CSCI.251\Broadcast\Broadcast\bin\Debug\net5.0\Broadcast.pdb
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.csproj.AssemblyReference.cache
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.GeneratedMSBuildEditorConfig.editorconfig
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.AssemblyInfoInputs.cache
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.AssemblyInfo.cs
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.csproj.CoreCompileInputs.cache
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.dll
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\ref\Broadcast.dll
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.pdb
+G:\RIT\CSCI.251\Broadcast\Broadcast\obj\Debug\net5.0\Broadcast.genruntimeconfig.cache
